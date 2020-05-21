@@ -1,0 +1,9 @@
+ plugin: azure_rm
+
+ auth_source: auto
+
+ include_vm_resource_groups:
+ - gsl-resourcegroup
+
+ hostnames:
+  - tag:Ansible=VM1
