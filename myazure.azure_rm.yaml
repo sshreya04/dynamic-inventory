@@ -5,5 +5,5 @@
  include_vm_resource_groups:
  - gsl-resourcegroup
 
- hostnames:
+ filters:
   - tag:Ansible=VM1
