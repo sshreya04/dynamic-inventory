@@ -6,4 +6,4 @@
  - gsl-resourcegroup
 
  filters:
-  - tag:Ansible=VM1
+  - tag:Ansible:VM1
